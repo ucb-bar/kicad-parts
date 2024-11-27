@@ -265,18 +265,7 @@
 		(remove_unused_layers no)
 		(uuid "4889ce5b-6aa3-48df-9b70-0e8833af9aec")
 	)
-	(model "${KIPRJMOD}/3d_models/HDR-TH_6P-P2.54-H-F-W5.7.step"
-		(offset
-			(xyz 0 -4.318 1.27)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${KIPRJMOD}/3d_models/HDR-TH_6P-P2.54-H-F-W5.7.wrl"
+	(model "${KIPRJMOD}/kicad-parts/kicad-parts.pretty/3d_models/HDR-TH_6P-P2.54-H-F-W5.7.step"
 		(offset
 			(xyz 0 -4.318 1.27)
 		)

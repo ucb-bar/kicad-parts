@@ -16560,7 +16560,7 @@
 			)
 		)
 	)
-	(model "${KIPRJMOD}/3d_models/Asmy_UNI2_for_footprint_3Dmodel.step"
+	(model "${KIPRJMOD}/kicad-parts/kicad-parts.pretty/3d_models/Asmy_UNI2_for_footprint_3Dmodel.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -16571,7 +16571,7 @@
 			(xyz -90 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/3d_models/Asmy_Socket_Ironwood_insulator_bottom_C22429.step"
+	(model "${KIPRJMOD}/kicad-parts/kicad-parts.pretty/3d_models/Asmy_Socket_Ironwood_insulator_bottom_C22429.step"
 		(hide yes)
 		(offset
 			(xyz 0 0 3.683)

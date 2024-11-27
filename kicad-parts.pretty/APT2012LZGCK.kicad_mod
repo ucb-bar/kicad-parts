@@ -201,7 +201,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "9a78d544-bb82-43df-b2ff-1cac7d24dd8d")
 	)
-	(model "${KIPRJMOD}/3d_models/APT2012LZGCK.step"
+	(model "${KIPRJMOD}/kicad-parts/kicad-parts.pretty/3d_models/APT2012LZGCK.step"
 		(offset
 			(xyz 0 0 0)
 		)
