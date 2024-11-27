@@ -142,20 +142,9 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "9217ccc2-a1e5-4721-a792-ab9eecad0bc5")
 	)
-	(model "${KIPRJMOD}/3d_models/TESTPOINT-SMD_L3.8-W2.0_RH-5019.step"
+	(model "${KIPRJMOD}/kicad-parts/kicad-parts.pretty/3d_models/TESTPOINT-SMD_L3.8-W2.0_RH-5019.step"
 		(offset
 			(xyz 0 -0 1)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${KIPRJMOD}/3d_models/TESTPOINT-SMD_L3.8-W2.0_RH-5019.wrl"
-		(offset
-			(xyz 0 0 1)
 		)
 		(scale
 			(xyz 1 1 1)

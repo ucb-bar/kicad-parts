@@ -368,18 +368,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "3a0848f9-0377-475f-894f-d1d5e094fe24")
 	)
-	(model "${KIPRJMOD}/3d_models/KEY-SMD_2P-L6.0-W3.6-H2.5-LS8.0.step"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${KIPRJMOD}/3d_models/KEY-SMD_2P-L6.0-W3.6-H2.5-LS8.0.wrl"
+	(model "${KIPRJMOD}/kicad-parts/kicad-parts.pretty/3d_models/KEY-SMD_2P-L6.0-W3.6-H2.5-LS8.0.step"
 		(offset
 			(xyz 0 0 0)
 		)
